@@ -8,7 +8,7 @@
 
 🎯 Targeting **eJPT, OSCP and CPTS** in 2025.
 
-🔗 Find me [here](your-social-link).
+🔗 Find me [here]([your-social-link](https://www.instagram.com/aymanazzam._/)).
 
 
 # 💻 Tech Stack:
