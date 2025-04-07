@@ -4,11 +4,11 @@
 
 🚀 I'm currently learning **Cybersecurity, Linux, Pyhton, Automation, Data Science, and AI**.
 
-🔒 I created a **cybersecurity portfolio**. Please find it [here]([your-link](https://lamona1226.github.io/portfolio/)).
+🔒 I created a **cybersecurity portfolio**. Please find it [here](https://lamona1226.github.io/portfolio/).
 
 🎯 Targeting **eJPT, OSCP and CPTS** in 2025.
 
-🔗 Find me [here]([your-social-link](https://www.instagram.com/aymanazzam._/)).
+🔗 Find me [here](https://www.instagram.com/aymanazzam._/).
 
 
 # 💻 Tech Stack:
