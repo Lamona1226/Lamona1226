@@ -6,7 +6,7 @@
 
 🔒 I created a **cybersecurity portfolio**. Please find it [here](https://lamona1226.github.io/portfolio/).
 
-🎯 Targeting **eJPT, OSCP and CPTS** in 2025.
+🎯 Targeting **comptia security+, ec council CEH and EWPT** in 2025.
 
 🔗 Find me [here](https://www.instagram.com/aymanazzam._/).
 
