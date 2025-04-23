@@ -6,7 +6,7 @@
 
 🔒 I created a **cybersecurity portfolio**. Please find it [here](https://lamona1226.github.io/portfolio/).
 
-🎯 Targeting **comptia security+, ec council CEH and EWPT** in 2025.
+🎯 Targeting **CompTIA Security+, eJPT and eCPPT.** in 2025.
 
 
 # 💻 Tech Stack:
