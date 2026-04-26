@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">
   Ayman | Web Penetration Tester
 </h1>
@@ -8,7 +7,6 @@
 </p>
 
 ---
-
 ## 🧠 About Me
 
 ```bash
@@ -23,11 +21,13 @@ critical security flaws and improve system resilience.
 
 ## 🎯 Focus Areas
 
-* 🔴 Broken Access Control (IDOR, privilege escalation)
-* 🔴 Injection (XSS, SQLi)
-* 🟠 Authentication & Session Flaws
-* 🟠 API Security & Logic Bugs
-* 🟡 Misconfigurations & Information Disclosure
+![OWASP Top 10](https://img.shields.io/badge/OWASP%20Top%2010-red?style=for-the-badge)
+![XSS](https://img.shields.io/badge/XSS-critical-red?style=for-the-badge)
+![SQL Injection](https://img.shields.io/badge/SQLi-critical-red?style=for-the-badge)
+![IDOR](https://img.shields.io/badge/IDOR-high-orange?style=for-the-badge)
+![SSRF](https://img.shields.io/badge/SSRF-high-orange?style=for-the-badge)
+![CSRF](https://img.shields.io/badge/CSRF-medium-yellow?style=for-the-badge)
+![Auth Bypass](https://img.shields.io/badge/Auth%20Bypass-critical-red?style=for-the-badge)
 
 ---
 
@@ -41,10 +41,11 @@ Recon → Mapping → Enumeration → Fuzzing → Exploitation → Impact Analys
 
 ## 🧰 Core Toolkit
 
-* Burp Suite (Proxy, Repeater, Intruder)
-* Nmap (Network Reconnaissance)
-* ffuf / dirsearch (Content Discovery)
-* Wireshark (Traffic Analysis)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-%230078D7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 * Custom Python Scripts (Automation)
 
 ---
@@ -54,6 +55,9 @@ Recon → Mapping → Enumeration → Fuzzing → Exploitation → Impact Analys
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
 ---
 
@@ -69,8 +73,8 @@ Recon → Mapping → Enumeration → Fuzzing → Exploitation → Impact Analys
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lamona1226&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lamona1226&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
@@ -95,13 +99,17 @@ Recon → Mapping → Enumeration → Fuzzing → Exploitation → Impact Analys
 
 ---
 
-## 📡 Contact
+# 📡 Connect
 
-* GitHub: https://github.com/YOUR_USERNAME
+<p align="center">
+  <a href="https://github.com/Lamona1226">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=100&section=footer"/>
 </p>
-```
+
