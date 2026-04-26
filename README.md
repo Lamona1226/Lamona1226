@@ -99,11 +99,25 @@ Recon → Mapping → Enumeration → Fuzzing → Exploitation → Impact Analys
 
 ---
 
+
+
 # 📡 Connect
 
 <p align="center">
   <a href="https://github.com/Lamona1226">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://hackerone.com/aymanlamona">
+    <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white"/>
+  </a>
+  <a href="https://bugcrowd.com/Ayman_Lamona">
+    <img src="https://img.shields.io/badge/Bugcrowd-FF6600?style=for-the-badge&logo=bugcrowd&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/ayman-azzam-b90784405">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="[https://your-portfolio.com](https://aymanazzam.is-a.dev/)">
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
