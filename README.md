@@ -1,16 +1,102 @@
-# Hi, I'm **Ayman Azzam** 👋
+````markdown
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Web+Penetration+Tester;Offensive+Security+Enthusiast;Bug+Bounty+Hunter;Breaking+Things+to+Secure+Them" />
+</h1>
 
-👀 Thank you for visiting my space. This is where I create and share my projects!
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="600"/>
+</p>
 
-🚀 I'm currently learning **Cybersecurity, Linux, Pyhton, Automation, Data Science, and AI**.
+---
 
-🔒 I created a **cybersecurity portfolio**. Please find it [here](https://lamona1226.github.io/portfolio/).
+# 🕶️ Who Am I
 
-🎯 Targeting **CompTIA Security+, eJPT and eCPPT.** in 2026.
+```bash
+> initializing profile...
+> loading mindset...
 
+[+] Name: Ayman
+[+] Role: Web Penetration Tester
+[+] Focus: Offensive Security & Bug Bounty
+[+] Mindset: Think like attacker. Break like attacker. Report like pro.
+````
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+---
+
+# ⚔️ Arsenal
+
+## 💻 Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+
+---
+
+## 🧰 Tools of Trade
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-%230078D7.svg?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge)
+
+---
+
+## 🎯 Targets (Expertise)
+
+![XSS](https://img.shields.io/badge/XSS-critical-red?style=for-the-badge)
+![SQL Injection](https://img.shields.io/badge/SQLi-critical-red?style=for-the-badge)
+![IDOR](https://img.shields.io/badge/IDOR-high-orange?style=for-the-badge)
+![SSRF](https://img.shields.io/badge/SSRF-high-orange?style=for-the-badge)
+![CSRF](https://img.shields.io/badge/CSRF-medium-yellow?style=for-the-badge)
+![Auth Bypass](https://img.shields.io/badge/Auth%20Bypass-critical-red?style=for-the-badge)
+
+---
+
+# 🧪 Live Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark" />
+</p>
+
+---
+
+# 🛰️ Recon Feed
+
+```bash
+[+] Scanning targets...
+[+] Enumerating endpoints...
+[+] Fuzzing parameters...
+[+] Exploiting vulnerabilities...
+[+] Reporting findings...
+```
+
+---
+
+# ☠️ Philosophy
+
+> "Security is not about defense.
+> It's about understanding how things break."
+
+---
+
+# 📡 Connect
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=100&section=footer"/>
+</p>
+```
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
