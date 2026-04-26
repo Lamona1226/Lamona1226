@@ -116,9 +116,9 @@ Recon → Mapping → Enumeration → Fuzzing → Exploitation → Impact Analys
   <a href="https://linkedin.com/in/ayman-azzam-b90784405">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[https://your-portfolio.com](https://aymanazzam.is-a.dev/)">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<a href="https://aymanazzam.is-a.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00FF00"/>
+</a>
 </p>
 
 ---
